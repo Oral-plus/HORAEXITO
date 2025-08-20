@@ -1,0 +1,54 @@
+.titulo1{
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 27px;
+    color: #119ad7;
+}
+.titulo2{
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 15px;
+    color: #00509d;
+}
+.titulo{
+    width: 60%;
+    justify-content: center;
+    text-align: left;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    font-size: 12px;
+
+}
+th {
+    background-color: #e1E5f2;
+    text-align: left;
+}
+.reloj {
+    margin: 50px auto;
+    padding: 20px;
+    border: 2px solid #007BFF;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+    width: 300px;
+    background-color: #F3F3F3;
+}
+
+    .rojo {
+        background: linear-gradient(to right, #ff4d4d, #ff9999);
+        color: rgb(0, 0, 0);
+    }
+    .amarillo {
+        background: linear-gradient(to right, #ffff99, #ffcc00);
+        color: black;
+    }
+    .verde {
+        background: linear-gradient(to right, #66ff66, #009933);
+        color: rgb(0, 0, 0);
+    }
+
